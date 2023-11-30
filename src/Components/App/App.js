@@ -1,13 +1,19 @@
+import React from 'react';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <p className='title'>
+    <div className='container'>
+      <div className='title-container'>
+        <h1 className='title'>
           Jammming
-        </p>
-      </header>
+        </h1>
+      </div>
+      <div className="App">
+        <header className="App-header">
+
+        </header>
+      </div>
     </div>
   );
 }

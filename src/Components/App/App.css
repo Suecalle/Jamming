@@ -1,9 +1,19 @@
+.container {
+  background-color: rgba(95, 1, 245, 0.90);
+  overflow: hidden;
+}
+
+.container h1 {
+  text-align: center;
+}
+
 .App {
   background-image: url('../../../public/Jamming_background.jpg');
   background-size: cover;
   position: relative;
   background-repeat: no-repeat;
   opacity: 0.9;
+  overflow: hidden;
 }
 
 
@@ -19,7 +29,4 @@
   color: white;
 }
 
-.App-header p {
-  font-size: 50px;
-}
 
