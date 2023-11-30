@@ -1,10 +1,11 @@
-.container {
-  background-color: rgba(95, 1, 245, 0.90);
-  overflow: hidden;
+.title-container {
+text-align: center;
+background-color: rgba(95, 1, 245, 0.90);
+overflow: hidden;
 }
 
 .container h1 {
-  text-align: center;
+  
 }
 
 .App {
